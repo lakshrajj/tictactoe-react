@@ -1,4 +1,4 @@
-# Tiktactoe on React (in-progress/Under-development)
+# Tiktactoe on React .
 
 - `npm start` — This will spawn a development server with a default port of `3000`.
 - `npm run build` — This will output a production build in the `dist` directory.
@@ -15,6 +15,12 @@ Or edit the `start` script directly:
 
 ```
 vite --port 1234
+```
+
+Direct Link , Published with `Surge.sh` :
+
+```
+https://tictactoe.luxx.surge.sh/
 ```
 
 ## Babel transforms

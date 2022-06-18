@@ -61,7 +61,7 @@ const App = () => {
       <button
         type="button"
         onClick={onNewGame}
-        className={`btn-reset ${winner ? 'active' : ''}`}
+        className={`btn-reset ${!winner ? '' : 'active'}`}
       >
         Start New Game
       </button>
